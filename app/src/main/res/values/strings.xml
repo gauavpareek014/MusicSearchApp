@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Search</string>
+    <string name="action_home">Home</string>
+    <string name="action_quit">Quit</string>
+    <string name="searchMusic">Search Music</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_search_results">Search Results</string>
+    <string name="title_activity_track_details">Track Details</string>
+    <string name="results">Results</string>
+    <string name="similarTracks">Similar Tracks</string>
+    <string name="Track">Track</string>
+</resources>
